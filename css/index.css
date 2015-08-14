@@ -1,0 +1,30 @@
+﻿@charset "UTF-8";
+
+*{
+    font-family: '微软雅黑';
+}
+body{
+    height:1920px;
+	
+}
+.qiehuan-left{
+    font-size: 40px;
+    font-weight: bold;
+    left: 420px;
+    top: 140px;
+    position: absolute;
+}
+.qiehuan-right{
+    font-size: 40px;
+    font-weight: bold;
+    left: 772px;
+    top: 140px;
+    position: absolute;
+}
+.shopping-handbag-qiehuan{
+    width: 420px;
+    height:360px;
+    overflow: hidden;
+    margin: 0 auto;
+}
+
